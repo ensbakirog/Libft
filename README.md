@@ -1,7 +1,3 @@
-Tabii, işte projeyi tanıttığınız bir metin örneği:
-
----
-
 # Libft Project - Implementation Summary
 
 ## Project Overview
